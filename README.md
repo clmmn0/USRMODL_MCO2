@@ -1,6 +1,6 @@
 # USRMODL_MCO2
 
-A content-based recommender system was developed using Bag of Words (BoW) and Term Frequency-Inverse Document Frequency (TF-IDF) on the MIND-small dataset. 
+A content-based recommender system that used Bag of Words (BoW) and Term Frequency-Inverse Document Frequency (TF-IDF) on the MIND-small dataset. 
 
 This repository contains two files: a Jupyter Notebook and a technical paper. The Jupyter Notebook shows the step by step process of the creation of the content-based recommender system. It shows the data pre-processing, text pre-processing, and how the two methods, BoW and TF-IDF, were used in the project. While the technical paper introduces the purpose of this project, review of related literature, proposed approaches and methodology, results and discussion of the experiments conducted, and the conclusion.
 
