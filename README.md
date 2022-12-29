@@ -6,3 +6,9 @@ This repository contains two files: a Jupyter Notebook and a technical paper. Th
 
 - Code Source: https://www.kaggle.com/code/accountstatus/mind-microsoft-news-recommendation-v2/notebook
 - Dataset Source: https://www.kaggle.com/datasets/arashnic/mind-news-dataset
+
+# How to Run the Notebook
+1. Clone this repository.
+2. Navigate to the cloned version of this repository.
+3. Open the Jupyter Notebook `USRMODL_MCO2_Code.ipynb`.
+4. Run all cells of the Notebook.
