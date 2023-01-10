@@ -1,4 +1,4 @@
-# USRMODL_MCO2
+# USRMODL_MCO2_RecommenderSystem
 
 A content-based recommender system that used Bag of Words (BoW) and Term Frequency-Inverse Document Frequency (TF-IDF) on the MIND-small dataset. 
 
